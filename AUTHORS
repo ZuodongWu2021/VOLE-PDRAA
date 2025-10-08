@@ -1,0 +1,22 @@
+FAEST is by
+
+Carsten Baum, Technical University of Denmark
+Waard Beullens, IBM Research Europe
+Lennart Braun, Université Paris Cité, CNRS, IRIF
+Cyprien Delpech de Saint Guilhem, imec-COSIC, KU Leuven
+Michael Klooß, Aalto University
+Christian Majenz, Technical University of Denmark
+Shibam Mukherjee, Graz University of Technology
+Emmanuela Orsini, Bocconi University
+Sebastian Ramacher, AIT Austrian Institute of Technology
+Christian Rechberger, Graz University of Technology
+Lawrence Roy, Aarhus University
+Peter Scholl, Aarhus University
+
+The reference implementation was written by
+
+Shibam Mukherjee
+Sebastian Ramacher
+
+The SHA-3 implementation is downloaded and built from the Keccak Code Package,
+see https://github.com/XKCP/XKCP for authorship.
