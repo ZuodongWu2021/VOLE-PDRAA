@@ -1,4 +1,4 @@
-# FAEST - Reference implementation
+# VOLE-PDRAA implementation
 
 ## Dependencies
 
